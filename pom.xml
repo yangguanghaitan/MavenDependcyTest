@@ -9,6 +9,7 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
+<!--    注释掉external Libraries不显示此注释模块的依赖-->
     <modules>
         <module>common</module>
         <module>admin</module>
