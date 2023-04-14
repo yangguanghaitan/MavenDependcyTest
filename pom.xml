@@ -13,6 +13,7 @@
     <modules>
         <module>common</module>
         <module>admin</module>
+        <module>bootUnitTest</module>
     </modules>
 
     <parent>

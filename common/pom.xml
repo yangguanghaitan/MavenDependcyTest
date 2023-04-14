@@ -8,6 +8,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
+    <description>admin和common是为了验证 依赖的版本所建的项目</description>
 
     <artifactId>common</artifactId>
 
